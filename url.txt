@@ -1,4 +1,6 @@
-URL : http://testapp-env.4rum2t9jhr.us-east-1.elasticbeanstalk.com/user/webcam
+http://testapp-env.4rum2t9jhr.us-east-1.elasticbeanstalk.com/login
+
+http://testapp-env.4rum2t9jhr.us-east-1.elasticbeanstalk.com/user/webcam
 chrome://flags/#unsafely-treat-insecure-origin-as-secure
 
 
